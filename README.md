@@ -5,3 +5,5 @@ Prior to doing that bot classifies user text as programming-related or not progr
 If text was not clasified as programming-related, bot answers with some small-talk provided using ChatterBot library.
 
 Otherwise bot answers with most appropriate link to StackOverflow discussion.
+
+This code is a final project for Coursera course "Natural Language Processing".
